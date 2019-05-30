@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Laterrazza</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pokoje1">Aktualnie hotel dysponuje 30 pokojami jedno i dwuosobowymi oraz 2 apartamentami. Istnieje możliwość tzw. „dostawki” do pokoju dwuosobowego, np. dla rodziców z dzieckiem. Pokoje są urządzone w sposób prosty nowoczesny i funkcjonalny. Każdy wyposażony jest w łazienkę z kabiną prysznicową, telewizor LCD, telefon, mini bar, suszarka. Apartamenty wyposażone są w wanny z hydromasażem. W każdym pokoju dostępny jest dostęp do internetu LAN i WiFi.</string>
+    <string name="o_hotelu2">Hotel La Terrazza II położony jest w spokojnej i cichej części Grójca odległej ok. 1 km. od centrum. Biegnące niedaleko trasy 7 i 50 zapewniają łatwy dojazd w kierunku Warszawy, Radomia, czy Sochaczewa. Włoskie kierownictwo gwarantuje rodzinną atmosferę i dobrą obsługę. Personel włada językami obcymi (angielski, włoski). </string>
+    <string name="o_hotelu1">Aktualnie hotel dysponuje 30 pokojami jedno i  dwuosobowymi oraz 2 apartamentami. Istnieje możliwość tzw. „dostawki” do pokoju dwuosobowego, np. dla rodziców z dzieckiem. Pokoje są urządzone w sposób prosty nowoczesny i funkcjonalny. Każdy wyposażony jest w łazienkę z kabiną prysznicową, telewizor LCD, telefon, mini bar, suszarka. Apartamenty wyposażone są w wanny z hydromasażem. W każdym pokoju dostępny jest dostęp do internetu LAN i WiFi.</string>
+    <string name="jednoosobowy">• Pokój jednoosobowy ze śniadaniem – <b>215 zł /dobę</b></string>
+    <string name="dwuosobowy">• Pokój dwuosobowy ze śniadaniem – <b>265 zł/dobę</b></string>
+    <string name="dwosobowy1">• Pokój dwuosobowy do wykorzystania przez jedną osobę ze śniadaniem – <b>230 zł/dobę</b> </string>
+    <string name="apartament">• Apartament – <b>350 zł/dobę</b> </string>
+    <string name="historia_res">Restauracja i Hotel La Terrazza powstała w 1998 roku. Stanowiła namiastkę ojczyzny dla Gości z Włoch pracujących w fabryce słodyczy Ferrero. Jej właściciel, Włoch z Piemontu, dokłada starań, by zadbać o podniebienia rodaków. Menu stworzone zostało przez włoskiego Szefa kuchni. W restauracji stosujemy produkty najwyższej jakości, dania przygotowane są domowym sposobem – zawsze bezpośrednio przed podaniem.
+
+Dodatkiem do dań jest zawsze oryginalne włoskie wino znane i lubiane na całym świecie. Po 15- stu latach działalności śmiało można powiedzieć, że La Terrazza to restauracja z tradycjami i prawdziwym włoskim klimatem.</string>
+    <string name="nasza_kuchnia">Nasze przystawki: carpaccio wołowe, czy łosoś marynowany to klasyka sama w sobie. Pierożki i pasty robione domowym sposobem smakują jak u włoskiej „mammy”. Duży wybór mięs i ryb sprawią, że każdy znajdzie coś dla siebie. Natomiast własnoręcznie wykonane tiramisu, panna cotta, czy strudel z pewnością zapiszą się w pamięci. Koneserzy wina znajdą tu znane włoskie Chianti, Barberę, Barolo,Tormarescę, czy Prosecco. Do La Terrazzy można wpaść również na „szybką kawę”. Zrobiona w orginalnym ekspresie „Cimballi” sprawi, że poczujecie Państwo prawdziwy smak włoskiego espresso, czy cappuccino. Nasza restauracja jest również doskonałym miejscem na różnego typu spotkania, zarówno biznesowe jak i rodzinne</string>
+</resources>

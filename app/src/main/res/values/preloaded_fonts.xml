@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/architects_daughter</item>
+        <item>@font/averia_serif_libre_light</item>
+        <item>@font/bowlby_one</item>
+        <item>@font/cinzel_decorative</item>
+        <item>@font/forum</item>
+        <item>@font/gabriela</item>
+    </array>
+</resources>
